@@ -1,4 +1,4 @@
-# White Matter MRI in bvFTD, AD, and MCI
+# White Matter in bvFTD vs AD: A Multimodal MRI Study
 
 Analysis code for *Anterior White Matter Diffusion Changes in Behavioral Variant Frontotemporal Dementia Versus Alzheimer Disease: An Exploratory Cross-Cohort MRI Study*.
 
