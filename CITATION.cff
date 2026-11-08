@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "White Matter MRI in bvFTD, AD, and MCI"
+type: software
+authors:
+  - family-names: Soula
+    given-names: Oumayma
+  - family-names: Khlifa
+    given-names: Nawress
+  - family-names: Rebai
+    given-names: Ahmed
+  - family-names: Anazodo
+    given-names: Udunna C.

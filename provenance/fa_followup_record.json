@@ -1,0 +1,27 @@
+{
+  "baseline_reproduction": "passed",
+  "replicates": 2000,
+  "seed": 20261001,
+  "anterior_tracts": [
+    "Forceps minor",
+    "Uncinate fasciculus L",
+    "Uncinate fasciculus R"
+  ],
+  "comparator_tracts": [
+    "Forceps major",
+    "Corticospinal tract L",
+    "Corticospinal tract R",
+    "Cingulum (hippocampus) L",
+    "Cingulum (hippocampus) R"
+  ],
+  "bootstrap": "Diagnosis-by-site stratified participant pairs; control SD and adjusted coefficients refitted each draw; percentile intervals; failure proportion reported",
+  "tract_set": "One post hoc native-unit patient-level anterior-minus-comparator outcome; no posterior gradient or independent validation claimed",
+  "age68": "Group-by-age model on observed overlap; two-outcome exploratory BH family; approximate Welch HC3 inference",
+  "limits": "No acquisition harmonization or disease-by-scanner test. Percentile intervals are marginal, not multiplicity-adjusted. Sparse site strata condition bootstrap uncertainty on observed sites.",
+  "SHA256": {
+    "clinical_imaging_307.tsv": "43db7f6368c120b51322a8141d3e6e81d2da435fcf3cf7d7b14db9c563a5908b",
+    "jhu_subject_tract_FA_MD_AD_RD_with_demographics.tsv": "f5267f1d1f2f75f4d3627ee486839e7daa5bd266433090a0a37b54396c5b9079",
+    "run_fa_followup.py": "44f63dcdc52e58e7de9bb38991d727f5150ac2ea6c9b5ea36803e6147a4eeb58",
+    "run_fa_severity.py": "4db8e9bb706aa87474dbbf6693e5115b5d8d4d76a84c0d24372bcf77d5318e41"
+  }
+}
